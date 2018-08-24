@@ -8,7 +8,7 @@ August 23, 2018
 Epicodus Alumni Group and eBay
 
 `If there were speakers, who spoke?`
-Maigen Thomas
+Maigen Thomas, Epicodus alumni
 
 `What was the format of the event?`
 Informal presentation by Maigen on motivation and incorporating accountability partners in order to achieve goals both professional and personal.
@@ -26,11 +26,14 @@ I really liked how relatable the speaker was, she started epicodus at the same a
 I learned a few neat tricks in terms of breaking large tasks into chunks and incorporating an accountability buddy as well as calendar reminders to stay on task.
 
 `If you could give feedback to the coordinators of the event, what would it be? (Many events send out surveys and ask for feedback. Giving constructive feedback is a great way to contribute to the tech community.)`
+Honestly, I would let her know that she was really great! Her style of being simultaneously approachable and relatable allowed her words to sink in a bit more based on a heightened sense of connection. She was able to give advice without being condescending or preachy. It was like getting a talk from your new best friend, must be the past experience as a airline hostess, she's got being open and helpful down.
 
 `Would you recommend the event (or a similar event) to your peers?`
 Absolutely! If nothing else, besides the helpful and motivational talk I heard, it was great to network with fellow alumni and to get inspired by seeing the sweet digs at eBay. They had a lovely tea selection and endless fridge full of sparkling water,... one could get used to working in a place like that.
 
 `Is there anything else that stood out about the event?`
+I liked meeting a lot of alumni from previous cohorts and hearing about their experience in the industry. It is always nice to see people not only going through Epicodus and excelling but continuing to engage in the community.
 
 
-Please feel free to add additional notes.
+`Please feel free to add additional notes.`
+It was really lovely to be able to work on my angular project without being stressed with the option to do this meet up feedback assignment. Thank you for providing this type of work in the midst of the course. It was a huge relief and psychologically really helpful.
